@@ -1,0 +1,70 @@
+.empereur {
+    color: #cc0000 !important;
+}
+
+.duc {
+    color: orange !important;
+}
+
+.comte {
+    color: green !important;
+}
+
+.vicomte {
+    color: mediumpurple !important;
+}
+
+.baron {
+    color: darkcyan !important;
+}
+
+.roturier {
+    color: darkgrey !important;
+}
+
+.box {
+    width: 14px;
+    height: 14px;
+    background-color: transparent;
+    border: 1px solid #000;
+}
+
+.box.box-red {
+    background-color: darkred;
+}
+
+.box.box-green {
+    background-color: darkgreen;
+}
+
+.box.box-blue {
+    background-color: blue;
+}
+
+.color-red {
+    color: darkred !important;
+}
+
+.color-green {
+    color: darkgreen !important;
+}
+
+.color-blue {
+    color: blue !important;
+}
+
+.mb-6 {
+    margin-bottom: 4rem !important;
+}
+
+.mb-7 {
+    margin-bottom: 5rem !important;
+}
+
+.active {
+    color: #cc0000 !important;
+}
+
+.nav-link:hover {
+    color: #a90000 !important;
+}
